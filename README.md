@@ -3,8 +3,8 @@
 
 ## クエリ文字列とは
 クエリ文字列は、URLの末尾に続く、リソースに関する追加のデータやパラメータを含む文字列です。
- - クエリ文字列の例:[Googleの検索][Google]
-[Google]:https://www.google.com/search?q=github
+ - クエリ文字列の例:[Git hubを検索](https://www.google.com/search?q=github)
+
 ## パス変数（パスパラメーター）
 URLのパス内に直接値を埋め込む方法です。:variableの形式で表現されることがあります。
  - 例: **/users/:id** のように、**:id**が実際の値に置き換えられます。
