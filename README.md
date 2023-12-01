@@ -5,7 +5,7 @@
 ## クエリ文字列
 クエリ文字列は、URLの末尾に続く、リソースに関する追加のデータやパラメータを含む文字列です。  
 URLの末尾に **?** で始まり、キーと値のペアで構成されます。各ペアは **&** で区切られます。  
- - クエリ文字列の例:[Git hubをGoogl検索](https://www.google.com/search?q=github)  
+ - クエリ文字列の例:[GithubをGoogl検索](https://www.google.com/search?q=github)  
   このURLの例では、Googleの検索エンジンを使用しています。**search** はリソースを表し、**q** が検索クエリを表し、 **github** が検索語を表すクエリパラメータです。
 
 ## パス変数（パスパラメーター）
